@@ -22,10 +22,10 @@ command+n in VScode
 git version 2.15.0
 
 # 8 - Why would you run the command 'git status'?
-to check if your code is up to date with GitHub
+to compare your current changes, staged changes, and differences from GitHub
 
 # 9 - What does the command 'git add .' do?
-it begins tracking any new files created. It adds them to the "staging area"
+It adds changes to the "staging area"
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
 git commit -m "MESSAGE TO COMMIT"
