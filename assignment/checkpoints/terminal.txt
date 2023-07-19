@@ -16,7 +16,7 @@ mkdir
 Nothing happens if the folder is empty, it simply clears the terminal line. It displays the current contents of the folder. 
 
 # 6 - What is a quick way to create a new file?
-command+n in VScode
+touch
 
 # 7 - Run 'git --version' in your terminal. What is the output?
 git version 2.15.0
@@ -28,5 +28,5 @@ to compare your current changes, staged changes, and differences from GitHub
 It adds changes to the "staging area"
 
 # 10 - What is the command to push your committed changes to your repo on GitHub?
-git commit -m "MESSAGE TO COMMIT"
+git push origin main 
 
