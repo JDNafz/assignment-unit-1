@@ -12,7 +12,9 @@ footer {
     background-color: rgb(223, 154, 86);
 }
 /* Align the h1 containing your name in the center of the header*/
-header,body,footer {
+
+
+h1, p, ul, footer {
     text-align: center;
     font-family: Arial, Helvetica, sans-serif;
 }
@@ -30,6 +32,9 @@ img {
     border-width: 2rem;
     border-color:rgb(47,52,32);
     border-radius: 25% / 50%;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
 
 }
 
